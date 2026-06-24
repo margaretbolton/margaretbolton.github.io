@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-<img src="profile.jpg" width="200" style="float:right; margin-left:20px;" alt="Margaret Bolton">
+<img src="assets/images/profile.jpg" width="200" style="float:right; margin-left:20px;" alt="Margaret Bolton">
 # About Me
 
 I originally received Bachelor's and Master's degrees in Mechanical Engineering from the Georgia Institute of Technology (Georgia Tech) in Atlanta, GA. Following my initial studies, I worked in manufacturing environments as an engineer and quality leader for a decade.
