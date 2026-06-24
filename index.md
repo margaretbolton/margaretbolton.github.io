@@ -3,9 +3,11 @@ layout: home
 title: Home
 ---
 
-# Margaret Bolton
+# About Me
 
-I am an economist studying [your research areas].
+I originally received Bachelor's and Master's degrees in Mechanical Engineering from the Georgia Institute of Technology (Georgia Tech) in Atlanta, GA. Following my initial studies, I worked in manufacturing environments as an engineer and quality leader for a decade.
+
+I became interested in the social sciences and public policy, earned a Masters in Analytics (also from Georgia Tech), and began working for an applied behavioral science lab focused on improving financial well-being. We ran lab and field experiments to examine how to help individuals save more, pay off debt, and increase income. After almost five years working in behavioral science, I started N.C. State's doctoral program in Economics. My primary interests center around environmental policy.
 
 ## Research
 
