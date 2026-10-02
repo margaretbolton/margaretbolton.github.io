@@ -37,4 +37,4 @@ Ratcliffe, Caroline and Burke, Jeremy and Heck, Patrick and Bolton, Margaret and
 
 ## CV
 
-[Download CV](assets/cv.pdf)
+[Download CV](assets/margaret_bolton_cv_with_work_experience.pdf)
