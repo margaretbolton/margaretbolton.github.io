@@ -23,7 +23,8 @@ My research focuses on:
 **You want a plastic bottle, pal, you’re gonna pay for it: An ex ante analysis of a national tax on plastic packaging in U.S. soft drinks**
 
 This paper investigates the impact of a weight-based tax on plastic packaging on the amount of plastic used by the U.S. soft drinks industry.
-[Download paper](assets/Taxing_Plastic_Packaging_in_U_S__Soft_Drinks-Oct 2026.pdf)
+
+[Download paper](Taxing_Plastic_Packaging_in_U_S__Soft_Drinks-Oct 2026.pdf)
 
 **Does curbside composting increase how much food households throw away?**
 
