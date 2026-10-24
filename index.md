@@ -24,7 +24,7 @@ My research focuses on:
 
 This paper investigates the impact of a weight-based tax on plastic packaging on the amount of plastic used by the U.S. soft drinks industry.
 
-[Download paper](Taxing_Plastic_Packaging_in_U_S__Soft_Drinks-Oct 2026.pdf)
+[Download paper](assets/Taxing_Plastic_Packaging_in_U_S__Soft_Drinks-Oct 2026.pdf)
 
 **Does curbside composting increase how much food households throw away?**
 
